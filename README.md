@@ -2,6 +2,9 @@
 ### Aqui você encontrará uma coleção de projetos que desenvolvi, com foco em backend e utilizando diversas tecnologias.👨🏽‍💻
 
 ![ErickWesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickWesley&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Ferramentas já trabalhadas / Hard Skills:
 
