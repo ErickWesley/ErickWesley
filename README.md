@@ -4,7 +4,7 @@
 ![ErickWesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickWesley&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickWesley&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+##
 
 ### Ferramentas já trabalhadas / Hard Skills:
 
