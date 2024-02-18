@@ -15,13 +15,13 @@
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-    <img height="45" width="55" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" />
+    <img height="35" width="85" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" />
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
     <img height="60" width="105" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
-    <img height="60" width="95" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/javascript-original.svg" />
-    <img height="60" width="95" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html5-original.svg" />
-    <img height="60" width="95" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css3-original-wordmark.svg" />
-    <img height="60" width="95" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/react-original-wordmark.svg" />
+    <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/javascript-original.svg" />
+    <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html5-original.svg" />
+    <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css3-original-wordmark.svg" />
+    <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/react-original-wordmark.svg" />
           
             
           
