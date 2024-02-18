@@ -18,7 +18,7 @@
     <img height="54" width="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" />
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
     <img height="60" width="105" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
-    <img height="62" width="48" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/javascript-original.svg" />
+    <img height="68" width="48" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/javascript-original.svg" />
     <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html5-original.svg" />
     <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css3-original-wordmark.svg" />
     <img height="55" width="65" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/react-original-wordmark.svg" />
