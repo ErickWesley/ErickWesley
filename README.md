@@ -1,12 +1,12 @@
-## Olá, sou o Erick! Seja bem vindo(a) ao meu repositório!🖐️
-#### Aqui você encontrará os projetos que desenvolvi, com foco em backend e utilizando diversas tecnologias.👨🏽‍💻
+## Hello, I'm Erick! Welcome to my repository!🖐️
+#### Here you will find the projects I have developed, focusing on backend and using various technologies.👨🏽‍💻
 
 ![ErickWesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickWesley&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickWesley&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-### Ferramentas já trabalhadas / Hard Skills:
+### Languages and Tools:
 
 <div style="display: inline-block;">
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
